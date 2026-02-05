@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1a3e572-eafa-4f33-81e4-f43e524560b7" name="Changes" comment="" />
+    <list default="true" id="f1a3e572-eafa-4f33-81e4-f43e524560b7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/Ex001ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/Ex001ForEach2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/Ex002RadarDeTemperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/introducao/Aula07ArraysMultidimensionais01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/introducao/Aula07ArraysMultidimensionais02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Aintroducaoclasses/dominio/Estudante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Aintroducaoclasses/test/EstudanteTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Aintroducaoclasses/test/EstudanteTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/ex000/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/ex000/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/ex000/programacao.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +30,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -41,12 +58,21 @@
     "Application.Aula07Arrays01.executor": "Run",
     "Application.Aula07Arrays02.executor": "Run",
     "Application.Aula07Arrays03.executor": "Run",
+    "Application.Aula07ArraysMultidimensionais01.executor": "Debug",
+    "Application.Aula07ArraysMultidimensionais02.executor": "Run",
+    "Application.EstudanteTest01.executor": "Run",
+    "Application.Ex001ForEach.executor": "Run",
+    "Application.Ex001ForEach2.executor": "Run",
+    "Application.Ex002RadarDeTemperatura.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.OlaMundo.executor": "Debug",
     "Application.maratonajava.introducao.HelloWorld.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Erik Richard/OneDrive/Documentos/estudos/programacao/java",
@@ -64,16 +90,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java" />
+      <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java\maratona-java\src" />
       <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java\maratona-java\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Aula07Arrays03">
-    <configuration name="Aula06EstruturasDeRepeticao04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maratonajava.introducao.Aula06EstruturasDeRepeticao04" />
+  <component name="RunManager" selected="Application.EstudanteTest01">
+    <configuration name="Aula07ArraysMultidimensionais01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.introducao.Aula07ArraysMultidimensionais01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="maratonajava.introducao.*" />
+          <option name="PATTERN" value="academy.devdojo.introducao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula06EstruturasDeRepeticao05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maratonajava.introducao.Aula06EstruturasDeRepeticao05" />
+    <configuration name="Aula07ArraysMultidimensionais02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.introducao.Aula07ArraysMultidimensionais02" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="maratonajava.introducao.*" />
+          <option name="PATTERN" value="academy.devdojo.introducao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula07Arrays01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maratonajava.introducao.Aula07Arrays01" />
+    <configuration name="EstudanteTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.Aintroducaoclasses.test.EstudanteTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="maratonajava.introducao.*" />
+          <option name="PATTERN" value="maratonajava.javacore.Aintroducaoclasses.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula07Arrays02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maratonajava.introducao.Aula07Arrays02" />
+    <configuration name="Ex001ForEach2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.introducao.exercise.Ex001ForEach2" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="maratonajava.introducao.*" />
+          <option name="PATTERN" value="academy.devdojo.introducao.exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula07Arrays03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maratonajava.introducao.Aula07Arrays03" />
+    <configuration name="Ex002RadarDeTemperatura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.introducao.exercise.Ex002RadarDeTemperatura" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="maratonajava.introducao.*" />
+          <option name="PATTERN" value="academy.devdojo.introducao.exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Aula07Arrays03" />
-        <item itemvalue="Application.Aula07Arrays02" />
-        <item itemvalue="Application.Aula07Arrays01" />
-        <item itemvalue="Application.Aula06EstruturasDeRepeticao05" />
-        <item itemvalue="Application.Aula06EstruturasDeRepeticao04" />
+        <item itemvalue="Application.EstudanteTest01" />
+        <item itemvalue="Application.Ex002RadarDeTemperatura" />
+        <item itemvalue="Application.Aula07ArraysMultidimensionais02" />
+        <item itemvalue="Application.Aula07ArraysMultidimensionais01" />
+        <item itemvalue="Application.Ex001ForEach2" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +198,8 @@
       <workItem from="1769893542986" duration="3204000" />
       <workItem from="1770035121680" duration="4829000" />
       <workItem from="1770157733490" duration="3267000" />
+      <workItem from="1770208274512" duration="8972000" />
+      <workItem from="1770295226109" duration="5928000" />
     </task>
     <servers />
   </component>
@@ -182,7 +212,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/maratona-java/src/maratonajava/introducao/Aula06EstruturasDeRepeticao01.java</url>
           <line>3</line>
-          <properties class="maratonajava.introducao.Aula06EstruturasDeRepeticao01" method="main">
+          <properties class="maratonajava.introducao.Aula06EstruturasDeRepeticao01">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -190,5 +220,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="arrBase" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
