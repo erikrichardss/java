@@ -5,19 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1a3e572-eafa-4f33-81e4-f43e524560b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/Ex001ForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/Ex001ForEach2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/Ex002RadarDeTemperatura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/introducao/Aula07ArraysMultidimensionais01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/introducao/Aula07ArraysMultidimensionais02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Aintroducaoclasses/dominio/Estudante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Aintroducaoclasses/test/EstudanteTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Aintroducaoclasses/test/EstudanteTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Aintroducaoclasses/dominio/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Aintroducaoclasses/dominio/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Aintroducaoclasses/test/CarroTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Aintroducaoclasses/test/ProfessorTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Bintroducaometodos/dominio/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona-java/ex000/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona-java/ex000/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona-java/ex000/programacao.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/maratonajava/javacore/introducaoclasses/dominio/Estudante.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/maratonajava/javacore/introducaoclasses/test/EstudanteTest01.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,12 +59,18 @@
     "Application.Aula07Arrays03.executor": "Run",
     "Application.Aula07ArraysMultidimensionais01.executor": "Debug",
     "Application.Aula07ArraysMultidimensionais02.executor": "Run",
+    "Application.CalculadoraClasse02.executor": "Run",
+    "Application.CalculadoraTest01.executor": "Debug",
+    "Application.CalculadoraTest03.executor": "Run",
+    "Application.CalculadoraTest04.executor": "Debug",
+    "Application.CarroTest.executor": "Run",
     "Application.EstudanteTest01.executor": "Run",
     "Application.Ex001ForEach.executor": "Run",
     "Application.Ex001ForEach2.executor": "Run",
     "Application.Ex002RadarDeTemperatura.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.OlaMundo.executor": "Debug",
+    "Application.ProfessorTest01.executor": "Run",
     "Application.maratonajava.introducao.HelloWorld.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -95,13 +100,13 @@
       <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java\maratona-java\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EstudanteTest01">
-    <configuration name="Aula07ArraysMultidimensionais01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.introducao.Aula07ArraysMultidimensionais01" />
+  <component name="RunManager" selected="Application.CalculadoraTest04">
+    <configuration name="CalculadoraTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.Bintroducaometodos.test.CalculadoraTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.introducao.*" />
+          <option name="PATTERN" value="maratonajava.javacore.Bintroducaometodos.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula07ArraysMultidimensionais02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.introducao.Aula07ArraysMultidimensionais02" />
+    <configuration name="CalculadoraTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.Bintroducaometodos.test.CalculadoraTest02" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.introducao.*" />
+          <option name="PATTERN" value="maratonajava.javacore.Bintroducaometodos.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,8 +127,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EstudanteTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.Aintroducaoclasses.test.EstudanteTest01" />
+    <configuration name="CalculadoraTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.Bintroducaometodos.test.CalculadoraTest03" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="maratonajava.javacore.Bintroducaometodos.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculadoraTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.Bintroducaometodos.test.CalculadoraTest04" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="maratonajava.javacore.Bintroducaometodos.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarroTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.Aintroducaoclasses.test.CarroTest" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -135,39 +166,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex001ForEach2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.introducao.exercise.Ex001ForEach2" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.introducao.exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex002RadarDeTemperatura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.introducao.exercise.Ex002RadarDeTemperatura" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.introducao.exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EstudanteTest01" />
-        <item itemvalue="Application.Ex002RadarDeTemperatura" />
-        <item itemvalue="Application.Aula07ArraysMultidimensionais02" />
-        <item itemvalue="Application.Aula07ArraysMultidimensionais01" />
-        <item itemvalue="Application.Ex001ForEach2" />
+        <item itemvalue="Application.CalculadoraTest04" />
+        <item itemvalue="Application.CalculadoraTest03" />
+        <item itemvalue="Application.CalculadoraTest02" />
+        <item itemvalue="Application.CalculadoraTest01" />
+        <item itemvalue="Application.CarroTest" />
       </list>
     </recent_temporary>
   </component>
@@ -200,6 +205,7 @@
       <workItem from="1770157733490" duration="3267000" />
       <workItem from="1770208274512" duration="8972000" />
       <workItem from="1770295226109" duration="5928000" />
+      <workItem from="1770384928873" duration="7812000" />
     </task>
     <servers />
   </component>
@@ -212,7 +218,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/maratona-java/src/maratonajava/introducao/Aula06EstruturasDeRepeticao01.java</url>
           <line>3</line>
-          <properties class="maratonajava.introducao.Aula06EstruturasDeRepeticao01">
+          <properties class="maratonajava.introducao.Aula06EstruturasDeRepeticao01" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
