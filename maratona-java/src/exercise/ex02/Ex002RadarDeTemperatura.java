@@ -1,4 +1,4 @@
-package exercise;
+package exercise.ex02;
 
 public class Ex002RadarDeTemperatura {
     public static void main(String[] args) {

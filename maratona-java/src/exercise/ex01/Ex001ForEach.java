@@ -1,4 +1,4 @@
-package exercise;
+package exercise.ex01;
 
 public class Ex001ForEach {
     public static void main(String[] args) {
