@@ -14,7 +14,7 @@ public class UsuarioClasse {
     public boolean login(String email, String senha) {
         this.senha = senha;
         this.email = email;
-        
+
         return validarSenha(senha);
     }
 }

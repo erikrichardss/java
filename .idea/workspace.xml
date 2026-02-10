@@ -5,17 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1a3e572-eafa-4f33-81e4-f43e524560b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex06/classe/ContaBancariaClasse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex06/objeto/ContaBancaria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex07/classe/PessoaClasse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex07/main/PessoaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex08/classe/UsuarioClasse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex08/main/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Bintroducaometodos/dominio/FuncionarioResolucao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Bintroducaometodos/dominio/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Bintroducaometodos/test/FuncionarioTestResolucao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Bintroducaometodos/test/PessoaTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex09/classe/AlunoClasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex09/main/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex10/classe/ProdutoClasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex10/main/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex11/classe/ContaClasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex11/main/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex12/classe/FuncionarioClasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex12/main/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex13/classe/ConfiguracaoClasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex13/main/Configuracao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Csobrecargametodos/dominio/Anime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Csobrecargametodos/test/AnimeTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Dconstrutores/dominio/Anime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Dconstrutores/test/AnimeTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex08/classe/UsuarioClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex08/classe/UsuarioClasse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex08/classe/UsuarioClasse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex08/classe/UsuarioClasse.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +48,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Aluno.executor": "Run",
+    "Application.AnimeTest01.executor": "Run",
     "Application.Aula02TiposPrimitivos.executor": "Run",
     "Application.Aula03TiposPrimitivosExercicio.executor": "Run",
     "Application.Aula04Operadores.executor": "Run",
@@ -64,12 +72,15 @@
     "Application.CalculadoraTest04.executor": "Run",
     "Application.CalculadoraTest05.executor": "Run",
     "Application.CarroTest.executor": "Run",
+    "Application.Configuracao.executor": "Run",
+    "Application.Conta.executor": "Run",
     "Application.ContaBancaria.executor": "Run",
     "Application.EstudanteTest01.executor": "Run",
     "Application.EstudanteTest02.executor": "Run",
     "Application.Ex001ForEach.executor": "Run",
     "Application.Ex001ForEach2.executor": "Run",
     "Application.Ex002RadarDeTemperatura.executor": "Run",
+    "Application.Funcionario.executor": "Run",
     "Application.FuncionarioTest.executor": "Run",
     "Application.FuncionarioTestResolucao.executor": "Run",
     "Application.HelloWorld.executor": "Run",
@@ -78,10 +89,12 @@
     "Application.ParOuImparClasse.executor": "Run",
     "Application.PessoaMain.executor": "Run",
     "Application.PessoaTest01.executor": "Run",
+    "Application.Produto.executor": "Run",
     "Application.ProfessorTest01.executor": "Run",
     "Application.SaudacaoClasse.executor": "Run",
     "Application.Usuario.executor": "Run",
     "Application.maratonajava.introducao.HelloWorld.executor": "Run",
+    "Application.maratonajava.javacore.Dconstrutores.test.AnimeTest01.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -106,20 +119,24 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java\maratona-java\src\exercise" />
+      <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java\maratona-java\src\maratonajava\javacore\Dconstrutores\test" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java" />
       <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java\maratona-java\src" />
       <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java\maratona-java\.idea" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="maratonajava.javacore.Dconstrutores.dominio" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Usuario">
-    <configuration name="ContaBancaria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise.ex06.objeto.ContaBancaria" />
+  <component name="RunManager" selected="Application.Configuracao">
+    <configuration name="Aluno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.ex09.main.Aluno" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise.ex06.objeto.*" />
+          <option name="PATTERN" value="exercise.ex09.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FuncionarioTestResolucao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.Bintroducaometodos.test.FuncionarioTestResolucao" />
+    <configuration name="Configuracao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.ex13.main.Configuracao" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="maratonajava.javacore.Bintroducaometodos.test.*" />
+          <option name="PATTERN" value="exercise.ex13.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PessoaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise.ex07.main.PessoaMain" />
+    <configuration name="Conta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.ex11.main.Conta" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise.ex07.main.*" />
+          <option name="PATTERN" value="exercise.ex11.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PessoaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.Bintroducaometodos.test.PessoaTest01" />
+    <configuration name="Funcionario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.ex12.main.Funcionario" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="maratonajava.javacore.Bintroducaometodos.test.*" />
+          <option name="PATTERN" value="exercise.ex12.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,12 +183,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Usuario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise.ex08.main.Usuario" />
+    <configuration name="Produto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.ex10.main.Produto" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise.ex08.main.*" />
+          <option name="PATTERN" value="exercise.ex10.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Usuario" />
-        <item itemvalue="Application.ContaBancaria" />
-        <item itemvalue="Application.PessoaMain" />
-        <item itemvalue="Application.PessoaTest01" />
-        <item itemvalue="Application.FuncionarioTestResolucao" />
+        <item itemvalue="Application.Configuracao" />
+        <item itemvalue="Application.Funcionario" />
+        <item itemvalue="Application.Conta" />
+        <item itemvalue="Application.Produto" />
+        <item itemvalue="Application.Aluno" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +238,8 @@
       <workItem from="1770384928873" duration="7812000" />
       <workItem from="1770468065608" duration="7017000" />
       <workItem from="1770485017017" duration="3341000" />
-      <workItem from="1770636324496" duration="9134000" />
+      <workItem from="1770636324496" duration="9636000" />
+      <workItem from="1770722400383" duration="9447000" />
     </task>
     <servers />
   </component>
