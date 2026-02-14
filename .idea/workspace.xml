@@ -5,36 +5,134 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1a3e572-eafa-4f33-81e4-f43e524560b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex14/classe/PessoaClasse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex14/main/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex15/classe/AlunoClasse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex15/main/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex16/classe/CalculadoraClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex16/main/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex17/classe/UserAcountClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex17/main/UserAcountMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex18/classe/OrderClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex18/main/OrderMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex19/classe/ClienteClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex19/classe/PedidosClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex19/main/PedidoCliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex20/classe/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex20/classe/Professor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex20/main/ProfessorCurso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex21/classe/Computator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex21/classe/Teclado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/ex21/main/TecladoComputador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Eblocosdeinicializacao/dominio/Anime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Eblocosdeinicializacao/test/AnimeTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Emodificadoresestaticos/dominio/Anime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Emodificadoresestaticos/dominio/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Emodificadoresestaticos/test/AnimeTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Emodificadoresestaticos/test/CarroTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Gassociacao/dominio/Jogador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Gassociacao/dominio/Time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Gassociacao/test/JogadorTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Gassociacao/test/JogadorTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex22/classe/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex22/classe/Turma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex22/main/AlunoTurma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex23/classe/Celular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex23/classe/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex23/main/NomeCelular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex24/classe/Jogador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex24/classe/Times.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex24/main/JogadorTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex25/classe/Empresa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex25/classe/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex25/main/FuncionarioEmpresa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex26/classe/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex26/classe/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex26/main/MotorCarro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex27/classe/Biblioteca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex27/classe/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex27/main/BibliotecaLivro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex28/classe/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex28/main/AlunoCurso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Gassociacao/classe/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Gassociacao/classe/Local.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Gassociacao/classe/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Gassociacao/classe/Seminario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Gassociacao/dominio/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Gassociacao/dominio/Escola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Gassociacao/dominio/Local.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Gassociacao/dominio/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Gassociacao/dominio/Seminario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Gassociacao/test/AssociacaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Gassociacao/test/EscolaTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Gassociacao/test/JogadorTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Gassociacao/test/LeituraDoTecladoTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Gassociacao/test/LeituraDoTecladoTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Gassociacao/test/SeminarioTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex01/Ex001ForEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex01/Ex001ForEach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex01/Ex001ForEach2.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex01/Ex001ForEach2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex02/Ex002RadarDeTemperatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex02/Ex002RadarDeTemperatura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex03/classe/SaudacaoClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex03/classe/SaudacaoClasse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex03/objeto/Saudacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex03/objeto/Saudacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex04/classe/MediaClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex04/classe/MediaClasse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex04/objeto/MediaObjeto.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex04/objeto/MediaObjeto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex05/classe/ParOuImparClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex05/classe/ParOuImparClasse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex05/objeto/ParOuImparObjeto.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex05/objeto/ParOuImparObjeto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex06/classe/ContaBancariaClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex06/classe/ContaBancariaClasse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex06/objeto/ContaBancaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex06/objeto/ContaBancaria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex07/classe/PessoaClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex07/classe/PessoaClasse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex07/main/PessoaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex07/main/PessoaMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex08/classe/UsuarioClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex08/classe/UsuarioClasse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex08/main/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex08/main/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex09/classe/AlunoClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex09/classe/AlunoClasse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex09/main/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex09/main/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex10/classe/ProdutoClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex10/classe/ProdutoClasse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex10/main/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex10/main/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex11/classe/ContaClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex11/classe/ContaClasse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex11/main/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex11/main/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex12/classe/FuncionarioClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex12/classe/FuncionarioClasse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex12/main/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex12/main/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex13/classe/ConfiguracaoClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex13/classe/ConfiguracaoClasse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex13/main/Configuracao.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex13/main/Configuracao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex14/classe/PessoaClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex14/classe/PessoaClasse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex14/main/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex14/main/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex15/classe/AlunoClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex15/classe/AlunoClasse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex15/main/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex15/main/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex16/classe/CalculadoraClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex16/classe/CalculadoraClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex16/main/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex16/main/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex17/classe/UserAcountClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex17/classe/UserAcountClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex17/main/UserAcountMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex17/main/UserAcountMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex18/classe/OrderClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex18/classe/OrderClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex18/main/OrderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex18/main/OrderMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex19/classe/ClienteClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex19/classe/ClienteClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex19/classe/PedidosClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex19/classe/PedidosClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex19/main/PedidoCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex19/main/PedidoCliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex20/classe/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex20/classe/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex20/classe/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex20/classe/Professor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex20/main/ProfessorCurso.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex20/main/ProfessorCurso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex21/classe/Computator.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex21/classe/Computator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex21/classe/Teclado.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex21/classe/Teclado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/exercise/ex21/main/TecladoComputador.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote01/ex21/main/TecladoComputador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Gassociacao/dominio/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Gassociacao/dominio/Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex01/Ex001ForEach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex01/Ex001ForEach2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex02/Ex002RadarDeTemperatura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex03/classe/SaudacaoClasse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex03/objeto/Saudacao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex04/classe/MediaClasse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex04/objeto/MediaObjeto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex05/classe/ParOuImparClasse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex05/objeto/ParOuImparObjeto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex06/classe/ContaBancariaClasse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex06/objeto/ContaBancaria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex07/classe/PessoaClasse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex07/main/PessoaMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex08/classe/UsuarioClasse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex08/main/Usuario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex09/classe/AlunoClasse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex09/main/Aluno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex10/classe/ProdutoClasse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex10/main/Produto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex11/classe/ContaClasse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex11/main/Conta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex12/classe/FuncionarioClasse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex12/main/Funcionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex13/classe/ConfiguracaoClasse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex13/main/Configuracao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex14/classe/PessoaClasse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex14/main/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex15/classe/AlunoClasse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex15/main/Aluno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex16/classe/CalculadoraClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex16/main/Calculadora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex17/classe/UserAcountClass$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex17/classe/UserAcountClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex17/main/UserAcountMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex18/classe/OrderClass$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex18/classe/OrderClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex18/main/OrderMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex19/classe/ClienteClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex19/classe/PedidosClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex19/main/PedidoCliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex20/classe/Curso.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex20/classe/Professor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex20/main/ProfessorCurso.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex21/classe/Computator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex21/classe/Teclado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/exercise/ex21/main/TecladoComputador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/maratonajava/javacore/Gassociacao/dominio/Time.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/maratona-java/maratonajava/javacore/Gassociacao/dominio/Time.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +160,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Aluno.executor": "Run",
+    "Application.AlunoCurso.executor": "Run",
+    "Application.AlunoTurma.executor": "Run",
     "Application.AnimeTest01.executor": "Run",
+    "Application.AssociacaoTest.executor": "Run",
     "Application.Aula02TiposPrimitivos.executor": "Run",
     "Application.Aula03TiposPrimitivosExercicio.executor": "Run",
     "Application.Aula04Operadores.executor": "Run",
@@ -79,6 +180,7 @@
     "Application.Aula07Arrays03.executor": "Run",
     "Application.Aula07ArraysMultidimensionais01.executor": "Debug",
     "Application.Aula07ArraysMultidimensionais02.executor": "Run",
+    "Application.BibliotecaLivro.executor": "Run",
     "Application.Calculadora.executor": "Run",
     "Application.CalculadoraClasse02.executor": "Run",
     "Application.CalculadoraTest01.executor": "Debug",
@@ -90,18 +192,26 @@
     "Application.Configuracao.executor": "Run",
     "Application.Conta.executor": "Run",
     "Application.ContaBancaria.executor": "Run",
+    "Application.EscolaTest01.executor": "Run",
     "Application.EstudanteTest01.executor": "Run",
     "Application.EstudanteTest02.executor": "Run",
     "Application.Ex001ForEach.executor": "Run",
     "Application.Ex001ForEach2.executor": "Run",
     "Application.Ex002RadarDeTemperatura.executor": "Run",
     "Application.Funcionario.executor": "Run",
+    "Application.FuncionarioEmpresa.executor": "Run",
     "Application.FuncionarioTest.executor": "Run",
     "Application.FuncionarioTestResolucao.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.JogadorTest01.executor": "Run",
     "Application.JogadorTest02.executor": "Run",
+    "Application.JogadorTest03.executor": "Run",
+    "Application.JogadorTime.executor": "Run",
+    "Application.LeituraDoTecladoTest01.executor": "Run",
+    "Application.LeituraDoTecladoTest02.executor": "Run",
     "Application.MediaClasse.executor": "Run",
+    "Application.MotorCarro.executor": "Run",
+    "Application.NomeCelular.executor": "Run",
     "Application.OlaMundo.executor": "Debug",
     "Application.ParOuImparClasse.executor": "Run",
     "Application.PedidoCliente.executor": "Run",
@@ -112,6 +222,7 @@
     "Application.ProfessorCurso.executor": "Run",
     "Application.ProfessorTest01.executor": "Run",
     "Application.SaudacaoClasse.executor": "Run",
+    "Application.SeminarioTest.executor": "Run",
     "Application.TecladoComputador.executor": "Run",
     "Application.UserAcountMain.executor": "Run",
     "Application.Usuario.executor": "Run",
@@ -125,7 +236,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Erik Richard/OneDrive/Documentos/estudos/programacao/java/maratona-java/src/exercise",
+    "last_opened_file_path": "C:/Users/Erik Richard/OneDrive/Documentos/estudos/programacao/java/maratona-java/src/exercise/pacote01",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -140,6 +251,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java\maratona-java\src\exercise\pacote01" />
       <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java\maratona-java\src\exercise" />
       <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java\maratona-java\src\maratonajava\javacore\Dconstrutores\test" />
     </key>
@@ -153,9 +265,22 @@
       <recent name="maratonajava.javacore.Dconstrutores.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TecladoComputador">
-    <configuration name="JogadorTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.Gassociacao.test.JogadorTest01" />
+  <component name="RunManager" selected="Application.AssociacaoTest">
+    <configuration name="AlunoCurso" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.pacote01.ex28.main.AlunoCurso" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise.pacote01.ex28.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssociacaoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.Gassociacao.test.AssociacaoTest" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -167,51 +292,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JogadorTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.Gassociacao.test.JogadorTest02" />
+    <configuration name="BibliotecaLivro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.pacote01.ex27.main.BibliotecaLivro" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise.pacote01.ex27.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MotorCarro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.pacote01.ex26.main.MotorCarro" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise.pacote01.ex26.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeminarioTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.Gassociacao.test.SeminarioTest" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="maratonajava.javacore.Gassociacao.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PedidoCliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise.ex19.main.PedidoCliente" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercise.ex19.main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProfessorCurso" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise.ex20.main.ProfessorCurso" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercise.ex20.main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TecladoComputador" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise.ex21.main.TecladoComputador" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercise.ex21.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,11 +333,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TecladoComputador" />
-        <item itemvalue="Application.ProfessorCurso" />
-        <item itemvalue="Application.PedidoCliente" />
-        <item itemvalue="Application.JogadorTest02" />
-        <item itemvalue="Application.JogadorTest01" />
+        <item itemvalue="Application.AssociacaoTest" />
+        <item itemvalue="Application.SeminarioTest" />
+        <item itemvalue="Application.AlunoCurso" />
+        <item itemvalue="Application.BibliotecaLivro" />
+        <item itemvalue="Application.MotorCarro" />
       </list>
     </recent_temporary>
   </component>
@@ -265,6 +377,10 @@
       <workItem from="1770722400383" duration="9447000" />
       <workItem from="1770807648120" duration="8571000" />
       <workItem from="1770894470559" duration="11375000" />
+      <workItem from="1770986178937" duration="8575000" />
+      <workItem from="1771004176625" duration="5493000" />
+      <workItem from="1771064227060" duration="11811000" />
+      <workItem from="1771088731317" duration="5393000" />
     </task>
     <servers />
   </component>
@@ -282,6 +398,12 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Gassociacao/classe/Aluno.java</url>
+          <line>3</line>
+          <properties field="nome" class="maratonajava.javacore.Gassociacao.classe.Aluno" />
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
