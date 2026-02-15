@@ -55,9 +55,7 @@ public class Professor {
                 System.out.println("Aluno: " + aluno.getNome());
                 System.out.println("Idade: " + aluno.getIdade());
             }
-
         }
-
     }
 
     public void setNome(String nome) { this.nome = nome; }
