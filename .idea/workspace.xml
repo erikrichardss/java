@@ -5,19 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1a3e572-eafa-4f33-81e4-f43e524560b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex10/classe/Circulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex10/classe/Forma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex10/classe/Retangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex10/main/FormaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex11/classe/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex11/classe/ContaCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex11/classe/ContaPoupanca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex11/main/ContaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Lclassesabstratas/dominio/Desenvolvedor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Lclassesabstratas/dominio/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Lclassesabstratas/dominio/Gerente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Lclassesabstratas/dominio/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Lclassesabstratas/test/FuncionarioTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex12/classe/Biblioteca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex12/classe/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex12/classe/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex12/main/LivroTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex13/classe/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex13/classe/FuncionarioCLT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex13/classe/FuncionarioPJ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex13/main/FuncionarioTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex14/classe/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex14/classe/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex14/classe/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex14/main/ProdutoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex15/classe/Pagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex15/classe/PagamentoCartao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex15/classe/PagamentoPix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex15/classe/SistemaPagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex15/main/PagamentoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex16/classe/Assinatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex16/classe/Plano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex16/classe/StatusAssinatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex16/main/PlanoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex17/classe/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex17/classe/Moto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex17/classe/Veiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex17/main/VeiculoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex18/classe/Desenvolvedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex18/classe/Estagiario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex18/classe/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex18/classe/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex18/main/FuncionarioTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex18/servico/FolhaPagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Minterfaces/dominio/DataLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Minterfaces/dominio/DataRemover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Minterfaces/dominio/DatabaseLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Minterfaces/dominio/FileLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Minterfaces/test/DataLoaderTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Npolimorfismo/Test/ProdutoTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Npolimorfismo/Test/ProdutoTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Npolimorfismo/dominio/Computador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Npolimorfismo/dominio/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Npolimorfismo/dominio/Taxavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Npolimorfismo/dominio/Televisao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Npolimorfismo/dominio/Tomate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Npolimorfismo/servico/CalculadoraImposto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +60,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -44,119 +76,124 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Aluno.executor": "Run",
-    "Application.AlunoCurso.executor": "Run",
-    "Application.AlunoTurma.executor": "Run",
-    "Application.AnimalTes.executor": "Run",
-    "Application.AnimeTest01.executor": "Run",
-    "Application.AssociacaoTest.executor": "Run",
-    "Application.Aula02TiposPrimitivos.executor": "Run",
-    "Application.Aula03TiposPrimitivosExercicio.executor": "Run",
-    "Application.Aula04Operadores.executor": "Run",
-    "Application.Aula05EstruturasCondicionais.executor": "Run",
-    "Application.Aula05EstruturasCondicionais02.executor": "Run",
-    "Application.Aula05EstruturasCondicionais04.executor": "Run",
-    "Application.Aula05EstruturasCondicionais05.executor": "Run",
-    "Application.Aula06EstruturasDeRepeticao01.executor": "Run",
-    "Application.Aula06EstruturasDeRepeticao02.executor": "Run",
-    "Application.Aula06EstruturasDeRepeticao04.executor": "Run",
-    "Application.Aula06EstruturasDeRepeticao05.executor": "Run",
-    "Application.Aula07Arrays01.executor": "Run",
-    "Application.Aula07Arrays02.executor": "Run",
-    "Application.Aula07Arrays03.executor": "Run",
-    "Application.Aula07ArraysMultidimensionais01.executor": "Debug",
-    "Application.Aula07ArraysMultidimensionais02.executor": "Run",
-    "Application.BibliotecaLivro.executor": "Run",
-    "Application.Calculadora.executor": "Run",
-    "Application.CalculadoraClasse02.executor": "Run",
-    "Application.CalculadoraTest01.executor": "Debug",
-    "Application.CalculadoraTest03.executor": "Run",
-    "Application.CalculadoraTest04.executor": "Run",
-    "Application.CalculadoraTest05.executor": "Run",
-    "Application.CarroTest.executor": "Run",
-    "Application.CarroTest01.executor": "Run",
-    "Application.ClientTest01.executor": "Run",
-    "Application.Configuracao.executor": "Run",
-    "Application.Conta.executor": "Run",
-    "Application.ContaBancaria.executor": "Run",
-    "Application.ContaTest.executor": "Run",
-    "Application.DeviceTest.executor": "Run",
-    "Application.EmployeeTest.executor": "Run",
-    "Application.EscolaTest01.executor": "Run",
-    "Application.EstudanteTest01.executor": "Run",
-    "Application.EstudanteTest02.executor": "Run",
-    "Application.Ex001ForEach.executor": "Run",
-    "Application.Ex001ForEach2.executor": "Run",
-    "Application.Ex002RadarDeTemperatura.executor": "Run",
-    "Application.FormaTest.executor": "Run",
-    "Application.Funcionario.executor": "Run",
-    "Application.FuncionarioEmpresa.executor": "Run",
-    "Application.FuncionarioTest.executor": "Run",
-    "Application.FuncionarioTest01.executor": "Run",
-    "Application.FuncionarioTestResolucao.executor": "Run",
-    "Application.HelloWorld.executor": "Run",
-    "Application.HerancaTest01.executor": "Run",
-    "Application.HerancaTest02.executor": "Run",
-    "Application.JogadorTest01.executor": "Run",
-    "Application.JogadorTest02.executor": "Run",
-    "Application.JogadorTest03.executor": "Run",
-    "Application.JogadorTime.executor": "Run",
-    "Application.LeituraDoTecladoTest01.executor": "Run",
-    "Application.LeituraDoTecladoTest02.executor": "Run",
-    "Application.LibraryTest.executor": "Run",
-    "Application.LivroTest.executor": "Run",
-    "Application.MediaClasse.executor": "Run",
-    "Application.MotorCarro.executor": "Run",
-    "Application.NivelDeAcessoTest.executor": "Run",
-    "Application.NomeCelular.executor": "Run",
-    "Application.OlaMundo.executor": "Debug",
-    "Application.PagamentoTest.executor": "Run",
-    "Application.ParOuImparClasse.executor": "Run",
-    "Application.PaymentTest.executor": "Run",
-    "Application.PedidoCliente.executor": "Run",
-    "Application.PedidoTest.executor": "Run",
-    "Application.Pessoa.executor": "Run",
-    "Application.PessoaMain.executor": "Run",
-    "Application.PessoaTest01.executor": "Run",
-    "Application.ProductTest.executor": "Run",
-    "Application.Produto.executor": "Run",
-    "Application.ProfessorCurso.executor": "Run",
-    "Application.ProfessorTest01.executor": "Run",
-    "Application.SaudacaoClasse.executor": "Run",
-    "Application.SeminarioTest.executor": "Run",
-    "Application.TarefaPrioridadeTest.executor": "Run",
-    "Application.TecladoComputador.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.UserAcountMain.executor": "Run",
-    "Application.Usuario.executor": "Run",
-    "Application.VehicleTest.executor": "Run",
-    "Application.exercise.pacote01.ex29.main.BibliotecaLivro.executor": "Run",
-    "Application.maratonajava.introducao.HelloWorld.executor": "Run",
-    "Application.maratonajava.javacore.Dconstrutores.test.AnimeTest01.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Erik Richard/OneDrive/Documentos/estudos/programacao/java/maratona-java/src/exercise/pacote02",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Aluno.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AlunoCurso.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AlunoTurma.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AnimalTes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AnimeTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AssociacaoTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula02TiposPrimitivos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula03TiposPrimitivosExercicio.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula04Operadores.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula05EstruturasCondicionais.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula05EstruturasCondicionais02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula05EstruturasCondicionais04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula05EstruturasCondicionais05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula06EstruturasDeRepeticao01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula06EstruturasDeRepeticao02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula06EstruturasDeRepeticao04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula06EstruturasDeRepeticao05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula07Arrays01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula07Arrays02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula07Arrays03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula07ArraysMultidimensionais01.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Aula07ArraysMultidimensionais02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BibliotecaLivro.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Calculadora.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculadoraClasse02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculadoraTest01.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.CalculadoraTest03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculadoraTest04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculadoraTest05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarroTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarroTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClientTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Configuracao.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Conta.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContaBancaria.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContaTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataLoaderTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeviceTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmployeeTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EscolaTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstudanteTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstudanteTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex001ForEach.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex001ForEach2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex002RadarDeTemperatura.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FormaTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Funcionario.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FuncionarioEmpresa.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FuncionarioTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FuncionarioTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FuncionarioTestResolucao.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HerancaTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HerancaTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JogadorTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JogadorTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JogadorTest03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JogadorTime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeituraDoTecladoTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeituraDoTecladoTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LibraryTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LivroTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MediaClasse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MotorCarro.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NivelDeAcessoTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NomeCelular.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OlaMundo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.PagamentoTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ParOuImparClasse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PaymentTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PedidoCliente.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PedidoTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pessoa.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PessoaMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PessoaTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PlanoTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProductTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Produto.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProdutoTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProdutoTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProfessorCurso.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProfessorTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SaudacaoClasse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SeminarioTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TarefaPrioridadeTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TecladoComputador.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UserAcountMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Usuario.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VehicleTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VeiculoTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exercise.pacote01.ex29.main.BibliotecaLivro.executor&quot;: &quot;Run&quot;,
+    &quot;Application.maratonajava.introducao.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.maratonajava.javacore.Dconstrutores.test.AnimeTest01.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Erik Richard/OneDrive/Documentos/estudos/programacao/java/maratona-java/src/exercise/pacote02&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Cliente.TipoPagamento" />
@@ -178,13 +215,13 @@
       <recent name="maratonajava.javacore.Dconstrutores.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ContaTest">
-    <configuration name="ClientTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.Kenum.test.ClientTest01" />
+  <component name="RunManager" selected="Application.FuncionarioTest">
+    <configuration name="FuncionarioTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.pacote02.ex18.main.FuncionarioTest" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="maratonajava.javacore.Kenum.test.*" />
+          <option name="PATTERN" value="exercise.pacote02.ex18.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,12 +229,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise.pacote02.ex11.main.ContaTest" />
+    <configuration name="PlanoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.pacote02.ex16.main.PlanoTest" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise.pacote02.ex11.main.*" />
+          <option name="PATTERN" value="exercise.pacote02.ex16.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,12 +242,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FormaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise.pacote02.ex10.main.FormaTest" />
+    <configuration name="ProdutoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.pacote02.ex14.main.ProdutoTest" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise.pacote02.ex10.main.*" />
+          <option name="PATTERN" value="exercise.pacote02.ex14.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,12 +255,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FuncionarioTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.Lclassesabstratas.test.FuncionarioTest01" />
+    <configuration name="ProdutoTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.Npolimorfismo.Test.ProdutoTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="maratonajava.javacore.Lclassesabstratas.test.*" />
+          <option name="PATTERN" value="maratonajava.javacore.Npolimorfismo.Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,12 +268,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PagamentoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise.pacote02.ex09.main.PagamentoTest" />
+    <configuration name="VeiculoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.pacote02.ex17.main.VeiculoTest" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise.pacote02.ex09.main.*" />
+          <option name="PATTERN" value="exercise.pacote02.ex17.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,11 +283,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ContaTest" />
-        <item itemvalue="Application.FormaTest" />
-        <item itemvalue="Application.FuncionarioTest01" />
-        <item itemvalue="Application.PagamentoTest" />
-        <item itemvalue="Application.ClientTest01" />
+        <item itemvalue="Application.FuncionarioTest" />
+        <item itemvalue="Application.VeiculoTest" />
+        <item itemvalue="Application.ProdutoTest01" />
+        <item itemvalue="Application.ProdutoTest" />
+        <item itemvalue="Application.PlanoTest" />
       </list>
     </recent_temporary>
   </component>
@@ -303,6 +340,14 @@
       <workItem from="1771424977073" duration="4901000" />
       <workItem from="1771499477857" duration="13277000" />
       <workItem from="1771589303297" duration="15284000" />
+      <workItem from="1771609852911" duration="146000" />
+      <workItem from="1771610462547" duration="1000" />
+      <workItem from="1771688575716" duration="7416000" />
+      <workItem from="1771771717556" duration="4534000" />
+      <workItem from="1771849160797" duration="7566000" />
+      <workItem from="1771856846843" duration="158000" />
+      <workItem from="1771930326936" duration="9308000" />
+      <workItem from="1771942800062" duration="1000" />
     </task>
     <servers />
   </component>
