@@ -1,0 +1,36 @@
+package maratonajava.javacore.Pwrappers.test;
+
+public class WrapperTest01 {
+    public static void main(String[] args) {
+        byte bytP = 1;
+        short shortP = 1;
+        long longP = 10L;
+        int inP = 1;
+        float floatP = 10F;
+        double doubleP = 10;
+        char charP = 'W';
+        boolean booleanp = false;
+
+        Byte bytW = 127;
+        Short shortW = 1;
+        Integer intW = 1; // autoboxing
+        Long longW = 10L;
+        Float floatW = 10F;
+        Double doubleW = 10D;
+        Character charW = 'W';
+        Boolean booleanW = false;
+
+        int i = intW; // unboxing
+        Integer intW2 = Integer.parseInt("123");
+        boolean verdadeiro = Boolean.parseBoolean(null);
+        System.out.println(verdadeiro);
+
+        System.out.println(Character.isDigit('A'));
+        System.out.println(Character.isDigit('9'));
+        System.out.println(Character.isLetter('!'));
+        System.out.println(Character.isUpperCase('A'));
+        System.out.println(Character.isLowerCase('a'));
+        System.out.println(Character.toLowerCase('A'));
+        System.out.println(Character.toUpperCase('a'));
+    }
+}

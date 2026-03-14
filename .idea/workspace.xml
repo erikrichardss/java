@@ -4,7 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1a3e572-eafa-4f33-81e4-f43e524560b7" name="Changes" comment="" />
+    <list default="true" id="f1a3e572-eafa-4f33-81e4-f43e524560b7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex23/classe/Carrinho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex23/classe/ItemCarrinho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex23/classe/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex23/exception/CarrinhoVazioException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex23/exception/EstoqueInsuficienteException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex23/main/CarrinhoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex24/classe/Divisao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex24/classe/LeituraDeDadosTxt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex24/classe/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex24/classe/ProdutoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex24/classe/TratamentoEspecifico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex24/main/ProdutoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex25/classe/Banco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex25/classe/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex25/exception/SaldoInsuficienteException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex25/main/Programa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/projetos/proj4/domain/ItemPedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/projetos/proj4/domain/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/projetos/proj4/domain/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/projetos/proj4/enums/StatusPedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/projetos/proj4/enums/TipoProduto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/projetos/proj4/exceptions/PedidoVazioException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/projetos/proj4/exceptions/QuantidadeInvalidException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/projetos/proj4/interfaces/Calculavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/projetos/proj4/main/Restaurante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Oexception/exception/dominio/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Oexception/exception/dominio/Leitor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Oexception/exception/dominio/Leitor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Oexception/exception/dominio/LoginInvalidoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Oexception/exception/dominio/Peesoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Oexception/exception/test/LoginInvalidoExceptionTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Oexception/exception/test/SobrescritaComExceptionTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Oexception/exception/test/TryWithResourcesTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Oexception/runtime/test/RunTimeExceptionTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Pwrappers/test/WrapperTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Qstring/test/StringBuilderTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Qstring/test/StringPerformanceTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Qstring/test/StringTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Qstring/test/StringTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,10 +54,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
-        <option value="Exception" />
         <option value="Class" />
+        <option value="Exception" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -31,143 +72,157 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Aluno.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AlunoCurso.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AlunoTurma.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AnimalTes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AnimeTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AssociacaoTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula02TiposPrimitivos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula03TiposPrimitivosExercicio.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula04Operadores.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula05EstruturasCondicionais.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula05EstruturasCondicionais02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula05EstruturasCondicionais04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula05EstruturasCondicionais05.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula06EstruturasDeRepeticao01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula06EstruturasDeRepeticao02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula06EstruturasDeRepeticao04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula06EstruturasDeRepeticao05.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula07Arrays01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula07Arrays02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula07Arrays03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula07ArraysMultidimensionais01.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Aula07ArraysMultidimensionais02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BibliotecaLivro.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BibliotecaTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Calculadora.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculadoraClasse02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculadoraTest01.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.CalculadoraTest03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculadoraTest04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculadoraTest05.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CarroTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CarroTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClientTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Configuracao.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Conta.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ContaBancaria.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ContaBancariaTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ContaTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DataLoaderTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DeviceTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EmployeeTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EscolaTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EstudanteTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EstudanteTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex001ForEach.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex001ForEach2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex002RadarDeTemperatura.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExceptionTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FormaTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Funcionario.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FuncionarioEmpresa.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FuncionarioTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FuncionarioTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FuncionarioTestResolucao.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GerenciamentoDePedidos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HerancaTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HerancaTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ImpostoTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JogadorTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JogadorTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JogadorTest03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JogadorTime.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeituraDoTecladoTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeituraDoTecladoTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LibraryTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LivroTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MediaClasse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MotorCarro.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NivelDeAcessoTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NomeCelular.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NotificacaoTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OlaMundo.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.PagamentoTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ParOuImparClasse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PaymentTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PedidoCliente.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PedidoTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pessoa.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PessoaMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PessoaTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PlanoTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProductTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Produto.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProdutoTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProdutoTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProdutoTest03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProfessorCurso.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProfessorTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RepositorioTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RunTimeExceptionTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RunTimeExceptionTest03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SaudacaoClasse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SeminarioTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SistemaBancario.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StackOverFlow.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TarefaPrioridadeTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TecladoComputador.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UserAcountMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Usuario.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VehicleTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VeiculoTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.exercise.pacote01.ex29.main.BibliotecaLivro.executor&quot;: &quot;Run&quot;,
-    &quot;Application.maratonajava.introducao.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Application.maratonajava.javacore.Dconstrutores.test.AnimeTest01.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Erik Richard/OneDrive/Documentos/estudos/programacao/java/maratona-java/src/exercise/pacote02&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Aluno.executor": "Run",
+    "Application.AlunoCurso.executor": "Run",
+    "Application.AlunoTurma.executor": "Run",
+    "Application.AnimalTes.executor": "Run",
+    "Application.AnimeTest01.executor": "Run",
+    "Application.AssociacaoTest.executor": "Run",
+    "Application.Aula02TiposPrimitivos.executor": "Run",
+    "Application.Aula03TiposPrimitivosExercicio.executor": "Run",
+    "Application.Aula04Operadores.executor": "Run",
+    "Application.Aula05EstruturasCondicionais.executor": "Run",
+    "Application.Aula05EstruturasCondicionais02.executor": "Run",
+    "Application.Aula05EstruturasCondicionais04.executor": "Run",
+    "Application.Aula05EstruturasCondicionais05.executor": "Run",
+    "Application.Aula06EstruturasDeRepeticao01.executor": "Run",
+    "Application.Aula06EstruturasDeRepeticao02.executor": "Run",
+    "Application.Aula06EstruturasDeRepeticao04.executor": "Run",
+    "Application.Aula06EstruturasDeRepeticao05.executor": "Run",
+    "Application.Aula07Arrays01.executor": "Run",
+    "Application.Aula07Arrays02.executor": "Run",
+    "Application.Aula07Arrays03.executor": "Run",
+    "Application.Aula07ArraysMultidimensionais01.executor": "Debug",
+    "Application.Aula07ArraysMultidimensionais02.executor": "Run",
+    "Application.BibliotecaLivro.executor": "Run",
+    "Application.BibliotecaTest.executor": "Run",
+    "Application.Calculadora.executor": "Run",
+    "Application.CalculadoraClasse02.executor": "Run",
+    "Application.CalculadoraTest01.executor": "Debug",
+    "Application.CalculadoraTest03.executor": "Run",
+    "Application.CalculadoraTest04.executor": "Run",
+    "Application.CalculadoraTest05.executor": "Run",
+    "Application.CarrinhoTest.executor": "Run",
+    "Application.CarroTest.executor": "Run",
+    "Application.CarroTest01.executor": "Run",
+    "Application.ClientTest01.executor": "Run",
+    "Application.Configuracao.executor": "Run",
+    "Application.Conta.executor": "Run",
+    "Application.ContaBancaria.executor": "Run",
+    "Application.ContaBancariaTest.executor": "Run",
+    "Application.ContaTest.executor": "Run",
+    "Application.DataLoaderTest01.executor": "Run",
+    "Application.DeviceTest.executor": "Run",
+    "Application.Divisao.executor": "Run",
+    "Application.EmployeeTest.executor": "Run",
+    "Application.EscolaTest01.executor": "Run",
+    "Application.EstudanteTest01.executor": "Run",
+    "Application.EstudanteTest02.executor": "Run",
+    "Application.Ex001ForEach.executor": "Run",
+    "Application.Ex001ForEach2.executor": "Run",
+    "Application.Ex002RadarDeTemperatura.executor": "Run",
+    "Application.ExceptionTest01.executor": "Run",
+    "Application.FormaTest.executor": "Run",
+    "Application.Funcionario.executor": "Run",
+    "Application.FuncionarioEmpresa.executor": "Run",
+    "Application.FuncionarioTest.executor": "Run",
+    "Application.FuncionarioTest01.executor": "Run",
+    "Application.FuncionarioTestResolucao.executor": "Run",
+    "Application.GerenciamentoDePedidos.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.HerancaTest01.executor": "Run",
+    "Application.HerancaTest02.executor": "Run",
+    "Application.ImpostoTest.executor": "Run",
+    "Application.JogadorTest01.executor": "Run",
+    "Application.JogadorTest02.executor": "Run",
+    "Application.JogadorTest03.executor": "Run",
+    "Application.JogadorTime.executor": "Run",
+    "Application.LeituraDeDadosTxt.executor": "Run",
+    "Application.LeituraDoTecladoTest01.executor": "Run",
+    "Application.LeituraDoTecladoTest02.executor": "Run",
+    "Application.LibraryTest.executor": "Run",
+    "Application.LivroTest.executor": "Run",
+    "Application.LoginInvalidoExceptionTest01.executor": "Run",
+    "Application.MediaClasse.executor": "Run",
+    "Application.MotorCarro.executor": "Run",
+    "Application.NivelDeAcessoTest.executor": "Run",
+    "Application.NomeCelular.executor": "Run",
+    "Application.NotificacaoTest.executor": "Run",
+    "Application.OlaMundo.executor": "Debug",
+    "Application.PagamentoTest.executor": "Run",
+    "Application.ParOuImparClasse.executor": "Run",
+    "Application.PaymentTest.executor": "Run",
+    "Application.PedidoCliente.executor": "Run",
+    "Application.PedidoTest.executor": "Run",
+    "Application.Pessoa.executor": "Run",
+    "Application.PessoaMain.executor": "Run",
+    "Application.PessoaTest01.executor": "Run",
+    "Application.PlanoTest.executor": "Run",
+    "Application.ProductTest.executor": "Run",
+    "Application.Produto.executor": "Run",
+    "Application.ProdutoTest.executor": "Run",
+    "Application.ProdutoTest01.executor": "Run",
+    "Application.ProdutoTest03.executor": "Run",
+    "Application.ProfessorCurso.executor": "Run",
+    "Application.ProfessorTest01.executor": "Run",
+    "Application.Programa.executor": "Run",
+    "Application.RepositorioTest.executor": "Run",
+    "Application.Restaurante.executor": "Run",
+    "Application.RunTimeExceptionTest02.executor": "Run",
+    "Application.RunTimeExceptionTest03.executor": "Run",
+    "Application.RunTimeExceptionTest04.executor": "Run",
+    "Application.SaudacaoClasse.executor": "Run",
+    "Application.SeminarioTest.executor": "Run",
+    "Application.SistemaBancario.executor": "Run",
+    "Application.StackOverFlow.executor": "Run",
+    "Application.StringBuilderTest01.executor": "Run",
+    "Application.StringPerformanceTest.executor": "Run",
+    "Application.StringTest01.executor": "Run",
+    "Application.StringTest02.executor": "Run",
+    "Application.TarefaPrioridadeTest.executor": "Run",
+    "Application.TecladoComputador.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.TratamentoEspecifico.executor": "Run",
+    "Application.TryWithResourcesTest01.executor": "Run",
+    "Application.UserAcountMain.executor": "Run",
+    "Application.Usuario.executor": "Run",
+    "Application.VehicleTest.executor": "Run",
+    "Application.VeiculoTest.executor": "Run",
+    "Application.WrapperTest01.executor": "Run",
+    "Application.exercise.pacote01.ex29.main.BibliotecaLivro.executor": "Run",
+    "Application.maratonajava.introducao.HelloWorld.executor": "Run",
+    "Application.maratonajava.javacore.Dconstrutores.test.AnimeTest01.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Erik Richard/OneDrive/Documentos/estudos/programacao/java/maratona-java/src/exercise/projetos",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Cliente.TipoPagamento" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java\maratona-java\src\exercise\pacote02" />
       <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java\maratona-java\src\exercise\projetos" />
+      <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java\maratona-java\src\exercise\pacote02" />
       <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java\maratona-java\src\projects\miniprojects" />
       <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java\maratona-java\src\exercise\pacote02\ex" />
       <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java\maratona-java\src\exercise\pacote01" />
@@ -178,20 +233,20 @@
       <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java\maratona-java\.idea" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="maratonajava.javacore.Oexception.exception.test" />
       <recent name="maratonajava.javacore.Oexception.runtime.test" />
+      <recent name="maratonajava.javacore.Oexception.exception.test" />
       <recent name="maratonajava.javacore.Npolimorfismo.servico" />
       <recent name="maratonajava.javacore.Npolimorfismo.Test" />
       <recent name="maratonajava.javacore.Emodificadoresestaticos.domain" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProdutoTest">
-    <configuration name="ContaBancariaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise.pacote02.ex21.main.ContaBancariaTest" />
+  <component name="RunManager" selected="Application.Restaurante">
+    <configuration name="Restaurante" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.projetos.proj4.main.Restaurante" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise.pacote02.ex21.main.*" />
+          <option name="PATTERN" value="exercise.projetos.proj4.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,12 +254,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.Oexception.exception.test.ExceptionTest01" />
+    <configuration name="StringBuilderTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.Qstring.test.StringBuilderTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="maratonajava.javacore.Oexception.runtime.test.*" />
+          <option name="PATTERN" value="maratonajava.javacore.Qstring.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,12 +267,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProdutoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise.pacote02.ex22.main.ProdutoTest" />
+    <configuration name="StringPerformanceTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.Qstring.test.StringPerformanceTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise.pacote02.ex22.main.*" />
+          <option name="PATTERN" value="maratonajava.javacore.Qstring.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,12 +280,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunTimeExceptionTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.Oexception.runtime.test.RunTimeExceptionTest02" />
+    <configuration name="StringTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.Qstring.test.StringTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="maratonajava.javacore.Oexception.runtime.test.*" />
+          <option name="PATTERN" value="maratonajava.javacore.Qstring.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -238,12 +293,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunTimeExceptionTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.Oexception.runtime.test.RunTimeExceptionTest03" />
+    <configuration name="StringTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.Qstring.test.StringTest02" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="maratonajava.javacore.Oexception.runtime.test.*" />
+          <option name="PATTERN" value="maratonajava.javacore.Qstring.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -253,11 +308,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProdutoTest" />
-        <item itemvalue="Application.RunTimeExceptionTest03" />
-        <item itemvalue="Application.RunTimeExceptionTest02" />
-        <item itemvalue="Application.ContaBancariaTest" />
-        <item itemvalue="Application.ExceptionTest01" />
+        <item itemvalue="Application.Restaurante" />
+        <item itemvalue="Application.StringBuilderTest01" />
+        <item itemvalue="Application.StringPerformanceTest01" />
+        <item itemvalue="Application.StringTest02" />
+        <item itemvalue="Application.StringTest01" />
       </list>
     </recent_temporary>
   </component>
