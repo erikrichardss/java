@@ -5,45 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1a3e572-eafa-4f33-81e4-f43e524560b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex23/classe/Carrinho.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex23/classe/ItemCarrinho.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex23/classe/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex23/exception/CarrinhoVazioException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex23/exception/EstoqueInsuficienteException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex23/main/CarrinhoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex24/classe/Divisao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex24/classe/LeituraDeDadosTxt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex24/classe/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex24/classe/ProdutoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex24/classe/TratamentoEspecifico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex24/main/ProdutoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex25/classe/Banco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex25/classe/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex25/exception/SaldoInsuficienteException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex25/main/Programa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/projetos/proj4/domain/ItemPedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/projetos/proj4/domain/Pedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/projetos/proj4/domain/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/projetos/proj4/enums/StatusPedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/projetos/proj4/enums/TipoProduto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/projetos/proj4/exceptions/PedidoVazioException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/projetos/proj4/exceptions/QuantidadeInvalidException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/projetos/proj4/interfaces/Calculavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/projetos/proj4/main/Restaurante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Oexception/exception/dominio/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Oexception/exception/dominio/Leitor1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Oexception/exception/dominio/Leitor2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Oexception/exception/dominio/LoginInvalidoException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Oexception/exception/dominio/Peesoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Oexception/exception/test/LoginInvalidoExceptionTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Oexception/exception/test/SobrescritaComExceptionTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Oexception/exception/test/TryWithResourcesTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Oexception/runtime/test/RunTimeExceptionTest04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Pwrappers/test/WrapperTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Qstring/test/StringBuilderTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Qstring/test/StringPerformanceTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Qstring/test/StringTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Qstring/test/StringTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/pacote02/ex26/main/DateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/projetos/proj5/domain/Assinatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/projetos/proj5/domain/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/projetos/proj5/enums/StatusPlano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/projetos/proj5/enums/TipoPlano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/projetos/proj5/exceptions/AssinaturaExpiradaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/projetos/proj5/interfaces/Cobravel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/exercise/projetos/proj5/main/SistemaDeAssinaturas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Rdatas/test/CalendarTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Rdatas/test/DateTeste01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Rdatas/test/LocalDateTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Rdatas/test/LocalDateTimeTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Rdatas/test/LocalTimesTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Sformatacao/DateFormatTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Sformatacao/LocaleTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Sformatacao/LocaleTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Sformatacao/NumberFormatTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Sformatacao/NumberFormatTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Sformatacao/SimpleDateFormate01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,8 +35,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Exception" />
+        <option value="Class" />
         <option value="Enum" />
       </list>
     </option>
@@ -104,6 +84,7 @@
     "Application.CalculadoraTest03.executor": "Run",
     "Application.CalculadoraTest04.executor": "Run",
     "Application.CalculadoraTest05.executor": "Run",
+    "Application.CalendarTest01.executor": "Run",
     "Application.CarrinhoTest.executor": "Run",
     "Application.CarroTest.executor": "Run",
     "Application.CarroTest01.executor": "Run",
@@ -114,6 +95,9 @@
     "Application.ContaBancariaTest.executor": "Run",
     "Application.ContaTest.executor": "Run",
     "Application.DataLoaderTest01.executor": "Run",
+    "Application.DateFormatTest01.executor": "Run",
+    "Application.DateTest.executor": "Run",
+    "Application.DateTeste01.executor": "Run",
     "Application.DeviceTest.executor": "Run",
     "Application.Divisao.executor": "Run",
     "Application.EmployeeTest.executor": "Run",
@@ -144,12 +128,19 @@
     "Application.LeituraDoTecladoTest02.executor": "Run",
     "Application.LibraryTest.executor": "Run",
     "Application.LivroTest.executor": "Run",
+    "Application.LocalDateTest01.executor": "Run",
+    "Application.LocalDateTimeTest01.executor": "Run",
+    "Application.LocalTimesTest01.executor": "Run",
+    "Application.LocaleTest01.executor": "Run",
+    "Application.LocaleTest02.executor": "Run",
     "Application.LoginInvalidoExceptionTest01.executor": "Run",
     "Application.MediaClasse.executor": "Run",
     "Application.MotorCarro.executor": "Run",
     "Application.NivelDeAcessoTest.executor": "Run",
     "Application.NomeCelular.executor": "Run",
     "Application.NotificacaoTest.executor": "Run",
+    "Application.NumberFormatTest01.executor": "Run",
+    "Application.NumberFormatTest02.executor": "Run",
     "Application.OlaMundo.executor": "Debug",
     "Application.PagamentoTest.executor": "Run",
     "Application.ParOuImparClasse.executor": "Run",
@@ -175,7 +166,9 @@
     "Application.RunTimeExceptionTest04.executor": "Run",
     "Application.SaudacaoClasse.executor": "Run",
     "Application.SeminarioTest.executor": "Run",
+    "Application.SimpleDateFormate01.executor": "Run",
     "Application.SistemaBancario.executor": "Run",
+    "Application.SistemaDeAssinaturas.executor": "Run",
     "Application.StackOverFlow.executor": "Run",
     "Application.StringBuilderTest01.executor": "Run",
     "Application.StringPerformanceTest.executor": "Run",
@@ -233,20 +226,20 @@
       <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java\maratona-java\.idea" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="maratonajava.javacore.Sformatacao" />
       <recent name="maratonajava.javacore.Oexception.runtime.test" />
       <recent name="maratonajava.javacore.Oexception.exception.test" />
       <recent name="maratonajava.javacore.Npolimorfismo.servico" />
       <recent name="maratonajava.javacore.Npolimorfismo.Test" />
-      <recent name="maratonajava.javacore.Emodificadoresestaticos.domain" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Restaurante">
-    <configuration name="Restaurante" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise.projetos.proj4.main.Restaurante" />
+  <component name="RunManager" selected="Application.SistemaDeAssinaturas">
+    <configuration name="DateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.pacote02.ex26.main.DateTest" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise.projetos.proj4.main.*" />
+          <option name="PATTERN" value="exercise.pacote02.ex26.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -254,12 +247,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilderTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.Qstring.test.StringBuilderTest01" />
+    <configuration name="LocalDateTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.Rdatas.test.LocalDateTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="maratonajava.javacore.Qstring.test.*" />
+          <option name="PATTERN" value="maratonajava.javacore.Rdatas.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -267,12 +260,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringPerformanceTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.Qstring.test.StringPerformanceTest01" />
+    <configuration name="LocalDateTimeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.Rdatas.test.LocalDateTimeTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="maratonajava.javacore.Qstring.test.*" />
+          <option name="PATTERN" value="maratonajava.javacore.Rdatas.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -280,12 +273,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.Qstring.test.StringTest01" />
+    <configuration name="LocalTimesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.Rdatas.test.LocalTimesTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="maratonajava.javacore.Qstring.test.*" />
+          <option name="PATTERN" value="maratonajava.javacore.Rdatas.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -293,12 +286,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.Qstring.test.StringTest02" />
+    <configuration name="SistemaDeAssinaturas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.projetos.proj5.main.SistemaDeAssinaturas" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="maratonajava.javacore.Qstring.test.*" />
+          <option name="PATTERN" value="exercise.projetos.proj5.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -308,11 +301,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Restaurante" />
-        <item itemvalue="Application.StringBuilderTest01" />
-        <item itemvalue="Application.StringPerformanceTest01" />
-        <item itemvalue="Application.StringTest02" />
-        <item itemvalue="Application.StringTest01" />
+        <item itemvalue="Application.SistemaDeAssinaturas" />
+        <item itemvalue="Application.LocalDateTimeTest01" />
+        <item itemvalue="Application.LocalTimesTest01" />
+        <item itemvalue="Application.LocalDateTest01" />
+        <item itemvalue="Application.DateTest" />
       </list>
     </recent_temporary>
   </component>
@@ -322,6 +315,9 @@
         <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
       </set>
     </attachedChunks>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Erik Richard\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
