@@ -1,6 +1,5 @@
 package maratonajava.javacore.Kenum.test;
 
-import Cliente.TipoPagamento.CREDITO;
 import maratonajava.javacore.Kenum.dominio.Cliente;
 import maratonajava.javacore.Kenum.dominio.TipoCliente;
 import maratonajava.javacore.Kenum.dominio.TipoPagamento;
