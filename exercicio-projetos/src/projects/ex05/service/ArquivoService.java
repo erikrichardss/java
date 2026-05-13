@@ -25,7 +25,7 @@ public class ArquivoService {
                             "Data: " + pedido.getDataPedido() +
                             " - Cliente: " + pedido.getCliente().getNome() +
                             " - Total: " + pedido.calcularTotal() +
-                            " - Status: " + pedido.getStatusPedido().getNomeStatus();
+                            " - Status: " + pedido.getStatusPedido().getNomeStatus() + "\n";
 
             Files.writeString(path, linhaPedido, StandardOpenOption.APPEND);
         } catch (IOException e) {

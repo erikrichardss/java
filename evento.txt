@@ -1,0 +1,1 @@
+Evento{nome='Marshmellow', tipoEvento=Curso, data=14/08/2026, capacidadeMaxima=50, valorInscricao=199.9}Evento{nome='Marshmellow', tipoEvento=Curso, data=14/08/2026, capacidadeMaxima=50, valorInscricao=199.9}

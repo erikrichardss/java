@@ -1,0 +1,1 @@
+Inscricao{participanteSet=[projects.ex06.domain.Participante@53832f96], evento=Curso, statusInscricao=Ativa, dataInscricao=null}

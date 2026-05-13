@@ -78,10 +78,7 @@ public class Pedido {
         this.processarPagamento.processarPagamento(tipoPagamento, valor);
         this.statusPedido = StatusPedido.PAGO;
 
-//        for (ItemPedido itemPedido : itemPedidos) {
-//
-//            itemPedidos.remove(itemPedido);
-//        }
+        this.itemPedidos.removeAll(itemPedidos);
     }
 
     public Cliente getCliente() {

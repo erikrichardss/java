@@ -1,1 +1,1 @@
-Data: 2026-04-27 - Cliente: Erik - Total: 299.8 - Status: PagoData: 2026-04-27 - Cliente: Erik - Total: 299.8 - Status: PagoData: 2026-04-27 - Cliente: Erik - Total: 299.8 - Status: Pago
+Data: 2026-05-02 - Cliente: Erik - Total: 299.8 - Status: Pago

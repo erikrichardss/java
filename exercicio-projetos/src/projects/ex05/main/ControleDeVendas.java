@@ -23,7 +23,7 @@ public class ControleDeVendas {
         Pedido pedido = new Pedido(cliente);
         pedido.adicionarItemCarrinho(itemPedido);
         System.out.println(pedido.calcularTotal());
-        pedido.finalizarPedido(TipoPagamento.DINHEIRO, 299.8);
+//        pedido.finalizarPedido(TipoPagamento.DINHEIRO, 299.8);
         ArquivoService arquivoService = new ArquivoService();
         arquivoService.salvarPedido(pedido);
         arquivoService.lerPedido();
