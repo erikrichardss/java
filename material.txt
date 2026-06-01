@@ -1,0 +1,4 @@
+Livro{titulo='As Crônicas de Narniaautor='C. S. Lewis', numeroPaginas=689}
+Revista{Titulo='PlayBoyedicao='12v'}
+Livro{titulo='As Crônicas de Narniaautor='C. S. Lewis', numeroPaginas=689}
+Revista{Titulo='PlayBoyedicao='12v'}

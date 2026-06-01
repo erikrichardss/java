@@ -5,90 +5,63 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97b6f4ae-7806-4d82-9a98-87ae8d653762" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/exercise/pacote02/ex27/classe/ControleEstoque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/exercise/pacote02/ex27/classe/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/exercise/pacote02/ex27/classe/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/exercise/pacote02/ex27/main/AgendaTelefonicaTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/exercise/pacote02/ex27/main/BinaruSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/exercise/pacote02/ex27/main/CollectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/exercise/pacote02/ex27/main/ControleEstoqueTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/exercise/pacote02/ex27/main/IteratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/exercise/pacote02/ex27/main/MapTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/exercise/pacote02/ex27/main/NavigableSetTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/exercise/pacote02/ex27/main/QueueTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/exercise/pacote02/ex27/main/SetTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/exercise/pacote02/ex27/main/TaskTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/exercise/pacote02/ex28/classe/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/exercise/pacote02/ex28/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/exercise/pacote02/ex29/classe/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/exercise/pacote02/ex29/main/Dvd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/exercise/pacote02/ex29/main/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/exercise/pacote02/ex29/main/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/exercise/pacote02/ex29/main/Revista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/exercise/pacote02/ex29/service/BibliotecaService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex06/domain/Evento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex06/domain/Inscricao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex06/domain/Participante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex06/enums/StatusInscriao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex06/enums/TipoEvento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex06/exception/EventoLotadoException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex06/exception/InscricaoDuplicadaException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex06/interfaces/Calculavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex06/interfaces/Persistivel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex06/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex06/service/ArquivoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex07/domain/Emprestimo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex07/domain/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex07/domain/Material.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex07/domain/Revista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex07/domain/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex07/enums/StatusEmprestimo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex07/enums/TipoUsuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex07/exceptions/EmprestimoException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex07/exceptions/MaterialIndisponivelException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex07/interfaces/Entidade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex07/interfaces/Multavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex07/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex07/service/BibliotecaService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Ycolecoes/dominio/Consumidor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Ycolecoes/test/MapTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Ycolecoes/test/MapTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Ycolecoes/test/MapTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Ycolecoes/test/NavigableMapTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Ycolecoes/test/QueueTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Ycolecoes/test/QueueTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZAclassesInternas/test/AnonymousClassesTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZAclassesInternas/test/AnonymousClassesTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZAclassesInternas/test/OuterClassTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZAclassesInternas/test/OuterClassesTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZAclassesInternas/test/OuterClassesTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZBcomportamento/dominio/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZBcomportamento/interfaces/CarPredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZBcomportamento/test/ComportamentoPorParametroTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZBcomportamento/test/ComportamentoPorParametroTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZBcomportamento/test/ComportamentoPorParametroTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZClambidas/test/LambdaTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZClambidas/test/LambdaTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Zgenerics/dominio/Barco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Zgenerics/dominio/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Zgenerics/service/BarcoRentavelService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Zgenerics/service/CarroRentavelService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Zgenerics/service/RentalService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Zgenerics/test/ClasseGenericaTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Zgenerics/test/ClasseGenericaTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Zgenerics/test/ClasseGenericaTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Zgenerics/test/GenericsTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Zgenerics/test/MetodoGenericoTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Zgenerics/test/WildCardTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/Zgenerics/test/WildCardTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/exercise/pacote02/ex28/classe/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/exercise/pacote02/ex28/classe/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/exercise/pacote02/ex28/main/Optional01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex07/interfaces/Identificavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex07/repository/Repositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex07/service/ArquivoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex08/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex08/domain/Carrinho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex08/domain/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex08/domain/ItemCarrinho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex08/domain/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex08/domain/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex08/domain/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex08/domain/Vendedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex08/enums/Categoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex08/enums/StatusPedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex08/interfaces/ProcessarPagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex08/interfaces/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex08/repository/CartaoProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex08/repository/PedidoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex08/repository/PixProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex08/repository/ProdutoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex08/service/PedidoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex08/service/ProdutoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZClambidas/dominio/Anime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZClambidas/service/AnimeComparators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZClambidas/test/MethodReferenceTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZClambidas/test/MethodReferenceTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZClambidas/test/MethodReferenceTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZClambidas/test/MethodReferenceTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZDoptional/doman/Manga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZDoptional/repository/MangaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZDoptional/test/OptionalTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZDoptional/test/OptionalTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZEstreams/domain/LightNovel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZEstreams/test/StreamTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZEstreams/test/StreamTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZEstreams/test/StreamTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZEstreams/test/StreamTest05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZEstreams/test/StreamsTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex05/domain/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex05/domain/Pedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex05/main/ControleDeVendas.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex05/main/ControleDeVendas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex05/service/ArquivoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex05/service/ArquivoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicio-projetos/projects/ex05/domain/Pedido.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicio-projetos/projects/ex05/domain/Pedido.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicio-projetos/projects/ex05/main/ControleDeVendas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicio-projetos/projects/ex05/main/ControleDeVendas.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicio-projetos/projects/ex05/service/ArquivoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicio-projetos/projects/ex05/service/ArquivoService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pedido.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pedido.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-projetos/src/exercise/pacote02/ex28/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio-projetos/src/exercise/pacote02/ex28/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex07/domain/Emprestimo.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex07/domain/Emprestimo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex07/domain/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex07/domain/Livro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex07/domain/Material.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex07/domain/Material.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex07/domain/Revista.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex07/domain/Revista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex07/domain/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex07/domain/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex07/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex07/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex07/service/BibliotecaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex07/service/BibliotecaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicio-projetos/exercise/pacote02/ex28/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicio-projetos/exercise/pacote02/ex28/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicio-projetos/projects/ex07/domain/Emprestimo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicio-projetos/projects/ex07/domain/Emprestimo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicio-projetos/projects/ex07/domain/Livro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicio-projetos/projects/ex07/domain/Livro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicio-projetos/projects/ex07/domain/Material.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicio-projetos/projects/ex07/domain/Material.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicio-projetos/projects/ex07/domain/Revista.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicio-projetos/projects/ex07/domain/Revista.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicio-projetos/projects/ex07/domain/Usuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicio-projetos/projects/ex07/domain/Usuario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicio-projetos/projects/ex07/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicio-projetos/projects/ex07/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicio-projetos/projects/ex07/service/BibliotecaService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicio-projetos/projects/ex07/service/BibliotecaService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,9 +115,16 @@
     "Application.MapTest01.executor": "Run",
     "Application.MapTest02.executor": "Run",
     "Application.MapTest03.executor": "Run",
+    "Application.MethodReferenceTest01.executor": "Run",
+    "Application.MethodReferenceTest02.executor": "Run",
+    "Application.MethodReferenceTest03.executor": "Run",
+    "Application.MethodReferenceTest04.executor": "Run",
     "Application.MetodoGenericoTest01.executor": "Run",
     "Application.NavigableMapTest01.executor": "Run",
     "Application.NavigableSetTest01.executor": "Run",
+    "Application.Optional01.executor": "Run",
+    "Application.OptionalTest01.executor": "Run",
+    "Application.OptionalTest02.executor": "Run",
     "Application.OuterClassTest02.executor": "Run",
     "Application.OuterClassTest03.executor": "Run",
     "Application.OuterClassesTest01.executor": "Run",
@@ -152,17 +132,23 @@
     "Application.QueueTest01.executor": "Run",
     "Application.QueueTest02.executor": "Run",
     "Application.SetTest01.executor": "Run",
+    "Application.StreamTest02.executor": "Run",
+    "Application.StreamTest03.executor": "Run",
+    "Application.StreamTest04.executor": "Run",
+    "Application.StreamTest05.executor": "Run",
+    "Application.StreamsTest01.executor": "Run",
     "Application.TaskTest01.executor": "Run",
     "Application.WildCardTest01.executor": "Run",
     "Application.WildCardTest02.executor": "Run",
     "Application.projects.ex06.main.Main.executor": "Run",
+    "Application.projects.ex07.main.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Erik Richard/OneDrive/Documentos/estudos/programacao/java/exercicio-projetos/src/exercise/pacote02",
+    "last_opened_file_path": "C:/Users/Erik Richard/OneDrive/Documentos/estudos/programacao/java/exercicio-projetos/src/projects",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0"
@@ -170,10 +156,10 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java\exercicio-projetos\src\projects" />
       <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java\exercicio-projetos\src\exercise\pacote02" />
       <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java\maratona-java\src\maratonajava\javacore\ZZAclassesInternas\test" />
       <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java\exercicio-projetos\src\exercise\projetos" />
-      <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java\exercicio-projetos\src\projects" />
       <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java\maratona-java\src\maratonajava\javacore\Zgenerics\test" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -183,61 +169,9 @@
       <recent name="maratonajava.javacore.Ycolecoes.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="ComportamentoPorParametroTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.ZZBcomportamento.test.ComportamentoPorParametroTest02" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="maratonajava.javacore.ZZBcomportamento.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ComportamentoPorParametroTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.ZZBcomportamento.test.ComportamentoPorParametroTest03" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="maratonajava.javacore.ZZBcomportamento.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LambdaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.ZZClambidas.test.LambdaTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="maratonajava.javacore.ZZClambidas.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LambdaTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.ZZClambidas.test.LambdaTest02" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="maratonajava.javacore.ZZClambidas.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise.pacote02.ex28.main.Main" />
+  <component name="RunManager" selected="Application.StreamTest05">
+    <configuration name="Optional01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.pacote02.ex28.main.Optional01" />
       <module name="exercicio-projetos" />
       <extension name="coverage">
         <pattern>
@@ -249,13 +183,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StreamTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.ZZEstreams.test.StreamTest02" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="maratonajava.javacore.ZZEstreams.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.ZZEstreams.test.StreamTest03" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="maratonajava.javacore.ZZEstreams.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.ZZEstreams.test.StreamTest04" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="maratonajava.javacore.ZZEstreams.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamTest05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.ZZEstreams.test.StreamTest05" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="maratonajava.javacore.ZZEstreams.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.LambdaTest02" />
-        <item itemvalue="Application.LambdaTest01" />
-        <item itemvalue="Application.ComportamentoPorParametroTest03" />
-        <item itemvalue="Application.ComportamentoPorParametroTest02" />
+        <item itemvalue="Application.StreamTest05" />
+        <item itemvalue="Application.StreamTest04" />
+        <item itemvalue="Application.Optional01" />
+        <item itemvalue="Application.StreamTest03" />
+        <item itemvalue="Application.StreamTest02" />
       </list>
     </recent_temporary>
   </component>

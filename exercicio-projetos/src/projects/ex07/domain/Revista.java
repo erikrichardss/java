@@ -11,6 +11,14 @@ public class Revista extends Material {
         this.edicao = edicao;
     }
 
+    @Override
+    public String toString() {
+        return "Revista{" +
+                "Titulo='" + getTitulo() +
+                "edicao='" + edicao + '\'' +
+                '}';
+    }
+
     public String getEdicao() {
         return edicao;
     }

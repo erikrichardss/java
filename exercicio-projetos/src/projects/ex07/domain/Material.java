@@ -1,8 +1,10 @@
 package projects.ex07.domain;
 
+import projects.ex07.interfaces.Identificavel;
+
 import java.util.concurrent.ThreadLocalRandom;
 
-public abstract class Material {
+public abstract class Material implements Identificavel {
 
     private Integer id;
     private String titulo;
@@ -29,8 +31,9 @@ public abstract class Material {
         return this.disponivel = true;
     }
 
+    @Override
     public Integer getId() {
-        return id;
+        return this.id;
     }
 
     public String getTitulo() {

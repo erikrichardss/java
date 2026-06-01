@@ -46,7 +46,7 @@ public class BibliotecaService {
 
     public void ordenarLivros() {
 
-        materiais.sort(Comparator.comparing(Material::getTitulo));
+        materiais.sort(Comparator.comparing(m -> m.getTitulo()));
     }
 
     public void associarUsuarioAoEmprestimo() {
@@ -65,6 +65,11 @@ public class BibliotecaService {
                 if (emprestimo.getUsuario().equals(usuario)) {
 
                     emprestimoDoUsuario.add(emprestimo);
+                }
+
+                if (emprestimo.getStatusEmprestimo().equals(StatusEmprestimo.FINALIZADO)) {
+
+                    emprestimoDoUsuario.remove(emprestimo);
                 }
             }
 

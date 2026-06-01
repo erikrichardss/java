@@ -1,0 +1,2 @@
+Usuario{id=203289804, nome='Erik', email='erik@gmail.coim', tipoUsuario=ALUNO, dataCadastro=2026-05-15}
+Usuario{id=-799177675, nome='Erik', email='erik@gmail.coim', tipoUsuario=ALUNO, dataCadastro=2026-05-15}

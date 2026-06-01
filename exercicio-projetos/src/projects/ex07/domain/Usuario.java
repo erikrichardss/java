@@ -1,12 +1,13 @@
 package projects.ex07.domain;
 
 import projects.ex07.enums.TipoUsuario;
+import projects.ex07.interfaces.Identificavel;
 
 import java.time.LocalDate;
 import java.util.Objects;
 import java.util.concurrent.ThreadLocalRandom;
 
-public class Usuario {
+public class Usuario implements Identificavel {
 
     private Integer id;
     private String nome;
@@ -35,8 +36,18 @@ public class Usuario {
         return Objects.hash(nome, email);
     }
 
-    public Integer getId() {
-        return id;
+    @Override
+    public Integer getId() { return id; }
+
+    @Override
+    public String toString() {
+        return "Usuario{" +
+                "id=" + id +
+                ", nome='" + nome + '\'' +
+                ", email='" + email + '\'' +
+                ", tipoUsuario=" + tipoUsuario +
+                ", dataCadastro=" + dataCadastro +
+                '}';
     }
 
     public String getNome() {

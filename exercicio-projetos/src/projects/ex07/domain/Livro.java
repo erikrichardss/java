@@ -12,6 +12,15 @@ public class Livro extends Material {
         this.numeroPaginas = numeroPaginas;
     }
 
+    @Override
+    public String toString() {
+        return "Livro{" +
+                "titulo='" + getTitulo() +
+                "autor='" + autor + '\'' +
+                ", numeroPaginas=" + numeroPaginas +
+                '}';
+    }
+
     public String getAutor() {
         return autor;
     }

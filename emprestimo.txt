@@ -1,0 +1,2 @@
+Emprestimo{usuario=Usuario{id=203289804, nome='Erik', email='erik@gmail.coim', tipoUsuario=ALUNO, dataCadastro=2026-05-15}, material=Livro{titulo='As Crônicas de Narniaautor='C. S. Lewis', numeroPaginas=689}, dataEmprestimo=2026-05-15, dataDevolucao=2026-05-22, statusEmprestimo=null}
+Emprestimo{usuario=Usuario{id=-799177675, nome='Erik', email='erik@gmail.coim', tipoUsuario=ALUNO, dataCadastro=2026-05-15}, material=Livro{titulo='As Crônicas de Narniaautor='C. S. Lewis', numeroPaginas=689}, dataEmprestimo=2026-05-15, dataDevolucao=2026-05-22, statusEmprestimo=null}

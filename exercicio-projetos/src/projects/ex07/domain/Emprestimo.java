@@ -46,6 +46,17 @@ public class Emprestimo implements Multavel {
         return ChronoUnit.DAYS.between(LocalDate.now(), this.dataDevolucao) * 2;
     }
 
+    @Override
+    public String toString() {
+        return "Emprestimo{" +
+                "usuario=" + usuario +
+                ", material=" + material +
+                ", dataEmprestimo=" + dataEmprestimo +
+                ", dataDevolucao=" + dataDevolucao +
+                ", statusEmprestimo=" + statusEmprestimo +
+                '}';
+    }
+
     public Usuario getUsuario() {
         return usuario;
     }

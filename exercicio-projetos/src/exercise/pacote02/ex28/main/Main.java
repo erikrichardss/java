@@ -1,9 +1,11 @@
 package exercise.pacote02.ex28.main;
 
 import exercise.pacote02.ex28.classe.Funcionario;
+import org.w3c.dom.ls.LSOutput;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Optional;
 import java.util.function.Consumer;
 import java.util.function.Function;
 import java.util.function.Predicate;
@@ -29,6 +31,14 @@ public class Main {
         System.out.println("_________________");
         almentoSalario(funcionariosList, (Funcionario f) -> f.setSalario(f.getSalario() + f.getSalario() * 0.1));
         funcionariosList.forEach(f -> System.out.println(f.toString()));
+
+        System.out.println("_________________");
+        funcionariosList.sort((f1, f2) -> Double.compare(f1.getSalario(), f2.getSalario()));
+        funcionariosList.forEach(f -> System.out.println(f.toString()));
+
+        System.out.println("_________________");
+        funcionariosList.stream().filter(funcionario -> funcionario.getCargo().equals("Gestão"))
+                .forEach(funcionario -> System.out.println(funcionario.toString()));
     }
 
     public static <T> List<T> salarioAlto(List<T> list, Predicate<T> predicate) {
