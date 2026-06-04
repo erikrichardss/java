@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97b6f4ae-7806-4d82-9a98-87ae8d653762" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/exercise/pacote03/ex01/domain/Pedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/exercise/pacote03/ex01/test/ProdutoTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZEstreams/domain/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZEstreams/domain/Promotion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZEstreams/test/StreamTest06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZEstreams/test/StreamTest07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZEstreams/test/StreamTest08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZEstreams/test/StreamTest09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZEstreams/test/StreamTest10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZEstreams/test/StreamTest11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZEstreams/test/StreamTest12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZEstreams/test/StreamTest13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZEstreams/test/StreamTest14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZEstreams/domain/LightNovel.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZEstreams/domain/LightNovel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZEstreams/test/StreamsTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZEstreams/test/StreamTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/maratonajava/javacore/ZZEstreams/domain/LightNovel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/maratona-java/maratonajava/javacore/ZZEstreams/domain/LightNovel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/maratonajava/javacore/ZZEstreams/test/StreamsTest01.class" beforeDir="false" />
-    </list>
+    <list default="true" id="97b6f4ae-7806-4d82-9a98-87ae8d653762" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,80 +35,80 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AgendaTelefonicaTest01.executor": "Run",
-    "Application.AnonymousClassesTest01.executor": "Run",
-    "Application.AnonymousClassesTest02.executor": "Run",
-    "Application.BinaruSearch.executor": "Run",
-    "Application.ClasseGenericaTest01.executor": "Run",
-    "Application.ClasseGenericaTest02.executor": "Run",
-    "Application.ClasseGenericaTest03.executor": "Run",
-    "Application.CollectionTest.executor": "Run",
-    "Application.ComportamentoPorParametroTest01.executor": "Run",
-    "Application.ComportamentoPorParametroTest02.executor": "Run",
-    "Application.ComportamentoPorParametroTest03.executor": "Run",
-    "Application.ControleDeVendas.executor": "Run",
-    "Application.ControleEstoqueTest01.executor": "Run",
-    "Application.GenericsTest01.executor": "Run",
-    "Application.IteratorTest.executor": "Run",
-    "Application.LambdaTest01.executor": "Run",
-    "Application.LambdaTest02.executor": "Run",
-    "Application.ListSortTest01.executor": "Run",
-    "Application.ListaArraysConversaoTest01.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MapTest01.executor": "Run",
-    "Application.MapTest02.executor": "Run",
-    "Application.MapTest03.executor": "Run",
-    "Application.MethodReferenceTest01.executor": "Run",
-    "Application.MethodReferenceTest02.executor": "Run",
-    "Application.MethodReferenceTest03.executor": "Run",
-    "Application.MethodReferenceTest04.executor": "Run",
-    "Application.MetodoGenericoTest01.executor": "Run",
-    "Application.NavigableMapTest01.executor": "Run",
-    "Application.NavigableSetTest01.executor": "Run",
-    "Application.Optional01.executor": "Run",
-    "Application.OptionalTest01.executor": "Run",
-    "Application.OptionalTest02.executor": "Run",
-    "Application.OuterClassTest02.executor": "Run",
-    "Application.OuterClassTest03.executor": "Run",
-    "Application.OuterClassesTest01.executor": "Run",
-    "Application.OuterClassesTest02.executor": "Run",
-    "Application.ProdutoTest01.executor": "Run",
-    "Application.QueueTest01.executor": "Run",
-    "Application.QueueTest02.executor": "Run",
-    "Application.SetTest01.executor": "Run",
-    "Application.StreamTest02.executor": "Run",
-    "Application.StreamTest03.executor": "Run",
-    "Application.StreamTest04.executor": "Run",
-    "Application.StreamTest05.executor": "Run",
-    "Application.StreamTest06.executor": "Run",
-    "Application.StreamTest07.executor": "Run",
-    "Application.StreamTest08.executor": "Run",
-    "Application.StreamTest09.executor": "Run",
-    "Application.StreamTest10.executor": "Run",
-    "Application.StreamTest11.executor": "Run",
-    "Application.StreamTest12.executor": "Run",
-    "Application.StreamTest13.executor": "Run",
-    "Application.StreamTest14.executor": "Run",
-    "Application.StreamsTest01.executor": "Run",
-    "Application.TaskTest01.executor": "Run",
-    "Application.WildCardTest01.executor": "Run",
-    "Application.WildCardTest02.executor": "Run",
-    "Application.projects.ex06.main.Main.executor": "Run",
-    "Application.projects.ex07.main.Main.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Erik Richard/OneDrive/Documentos/estudos/programacao/java/exercicio-projetos/src/exercise/pacote03",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AgendaTelefonicaTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AnonymousClassesTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AnonymousClassesTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinaruSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClasseGenericaTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClasseGenericaTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClasseGenericaTest03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CollectionTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComportamentoPorParametroTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComportamentoPorParametroTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComportamentoPorParametroTest03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ControleDeVendas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ControleEstoqueTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenericsTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IteratorTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LambdaTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LambdaTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListSortTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListaArraysConversaoTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapTest03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodReferenceTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodReferenceTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodReferenceTest03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodReferenceTest04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MetodoGenericoTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NavigableMapTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NavigableSetTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Optional01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OptionalTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OptionalTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OuterClassTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OuterClassTest03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OuterClassesTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OuterClassesTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProdutoTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QueueTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QueueTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SetTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamTest03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamTest04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamTest05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamTest06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamTest07.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamTest08.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamTest09.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamTest10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamTest11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamTest12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamTest13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamTest14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamsTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TaskTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WildCardTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WildCardTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.projects.ex06.main.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.projects.ex07.main.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Erik Richard/OneDrive/Documentos/estudos/programacao/java/exercicio-projetos/src/exercise/pacote03&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java\exercicio-projetos\src\exercise\pacote03" />
