@@ -1,0 +1,1 @@
+Loan{id=0, materials=Book{author='Alexandre Dumas', numberPages=1400}, user=User{id=1, name='Erik Richard', quantityLoanByUsers=1}, dateLoan=2026-06-08, dateExpectedReturn=2026-06-28, dateReturn=null}

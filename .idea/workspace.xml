@@ -4,7 +4,69 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97b6f4ae-7806-4d82-9a98-87ae8d653762" name="Changes" comment="" />
+    <list default="true" id="97b6f4ae-7806-4d82-9a98-87ae8d653762" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/exercise/pacote03/ex02/ThreadTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/exercise/pacote03/ex02/domain/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/exercise/pacote03/ex02/domain/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/exercise/pacote03/ex02/service/StockService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/exercise/pacote03/ex02/thread/OrderProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex09/AppLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex09/domain/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex09/domain/Journal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex09/domain/Loan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex09/domain/Materials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex09/domain/ScientificArticle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex09/domain/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex09/domain/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex09/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex09/repository/LoanRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex09/repository/MaterialsRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex09/repository/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex09/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex09/service/LibraryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex09/service/ReportService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex10/TaskApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex10/domain/Priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex10/domain/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex10/domain/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex10/repository/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex10/repository/TaskRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-projetos/src/projects/ex10/service/TaskService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZEstreams/test/StreamTest15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZEstreams/test/StreamTest16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZFthreads/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZFthreads/domain/Members.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZFthreads/service/EmailDeliveryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZFthreads/test/EmailDeliveryTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZFthreads/test/ThreadAccountTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZFthreads/test/ThreadSafeTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZFthreads/test/ThreadTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZFthreads/test/ThreadTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZGconcorrencia/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZGconcorrencia/domain/Members.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZGconcorrencia/service/EmailDeliveryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZGconcorrencia/test/AtomicIntegerTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZGconcorrencia/test/BlockingQueueTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZGconcorrencia/test/CallableTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZGconcorrencia/test/CopyOnWriterTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZGconcorrencia/test/EmailDeliveryTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZGconcorrencia/test/ExecutorsTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZGconcorrencia/test/FutureTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZGconcorrencia/test/LinkedTransferQueueTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZGconcorrencia/test/ReentrantLockTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZGconcorrencia/test/ReentrantReadWriteLockTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/maratonajava/javacore/ZZGconcorrencia/test/ScheduledThreadPoolTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluno.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/arquivo_estudo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/emprestimo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/evento.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inscricao.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/material.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicio-projetos/projects/ex07/service/ArquivoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicio-projetos/projects/ex07/service/ArquivoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pedido.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usuario.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,8 +77,8 @@
       <list>
         <option value="Exception" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -40,7 +102,11 @@
     &quot;Application.AgendaTelefonicaTest01.executor&quot;: &quot;Run&quot;,
     &quot;Application.AnonymousClassesTest01.executor&quot;: &quot;Run&quot;,
     &quot;Application.AnonymousClassesTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AppLibrary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AtomicIntegerTest01.executor&quot;: &quot;Run&quot;,
     &quot;Application.BinaruSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BlockingQueueTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CallableTest01.executor&quot;: &quot;Run&quot;,
     &quot;Application.ClasseGenericaTest01.executor&quot;: &quot;Run&quot;,
     &quot;Application.ClasseGenericaTest02.executor&quot;: &quot;Run&quot;,
     &quot;Application.ClasseGenericaTest03.executor&quot;: &quot;Run&quot;,
@@ -50,10 +116,15 @@
     &quot;Application.ComportamentoPorParametroTest03.executor&quot;: &quot;Run&quot;,
     &quot;Application.ControleDeVendas.executor&quot;: &quot;Run&quot;,
     &quot;Application.ControleEstoqueTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CopyOnWriterTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmailDeliveryTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExecutorsTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FutureTest01.executor&quot;: &quot;Run&quot;,
     &quot;Application.GenericsTest01.executor&quot;: &quot;Run&quot;,
     &quot;Application.IteratorTest.executor&quot;: &quot;Run&quot;,
     &quot;Application.LambdaTest01.executor&quot;: &quot;Run&quot;,
     &quot;Application.LambdaTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedTransferQueueTest01.executor&quot;: &quot;Run&quot;,
     &quot;Application.ListSortTest01.executor&quot;: &quot;Run&quot;,
     &quot;Application.ListaArraysConversaoTest01.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
@@ -77,6 +148,10 @@
     &quot;Application.ProdutoTest01.executor&quot;: &quot;Run&quot;,
     &quot;Application.QueueTest01.executor&quot;: &quot;Run&quot;,
     &quot;Application.QueueTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReentrantLockTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReentrantReadWriteLockTest01 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReentrantReadWriteLockTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScheduledThreadPoolTest01.executor&quot;: &quot;Run&quot;,
     &quot;Application.SetTest01.executor&quot;: &quot;Run&quot;,
     &quot;Application.StreamTest02.executor&quot;: &quot;Run&quot;,
     &quot;Application.StreamTest03.executor&quot;: &quot;Run&quot;,
@@ -91,10 +166,18 @@
     &quot;Application.StreamTest12.executor&quot;: &quot;Run&quot;,
     &quot;Application.StreamTest13.executor&quot;: &quot;Run&quot;,
     &quot;Application.StreamTest14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamTest15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamTest16.executor&quot;: &quot;Run&quot;,
     &quot;Application.StreamsTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TaskApplication.executor&quot;: &quot;Run&quot;,
     &quot;Application.TaskTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadAccountTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadSafeTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadTest02.executor&quot;: &quot;Run&quot;,
     &quot;Application.WildCardTest01.executor&quot;: &quot;Run&quot;,
     &quot;Application.WildCardTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.maratonajava.javacore.ZZGconcorrencia.test.EmailDeliveryTest01.executor&quot;: &quot;Run&quot;,
     &quot;Application.projects.ex06.main.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.projects.ex07.main.Main.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
@@ -103,7 +186,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Erik Richard/OneDrive/Documentos/estudos/programacao/java/exercicio-projetos/src/exercise/pacote03&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Erik Richard/OneDrive/Documentos/estudos/programacao/java/exercicio-projetos/src/exercise/pacote03/ex01&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
@@ -111,79 +194,79 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java\exercicio-projetos\src\exercise\pacote03\ex01" />
       <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java\exercicio-projetos\src\exercise\pacote03" />
+      <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java\maratona-java\src\maratonajava\javacore\ZZGconcorrencia" />
       <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java\exercicio-projetos\src\projects" />
-      <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java\exercicio-projetos\src\exercise\pacote02" />
-      <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java\maratona-java\src\maratonajava\javacore\ZZAclassesInternas\test" />
-      <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java\exercicio-projetos\src\exercise\projetos" />
+      <recent name="C:\Users\Erik Richard\OneDrive\Documentos\estudos\programacao\java\maratona-java\src\maratonajava\javacore\ZZFthreads\test" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="maratonajava.javacore.ZZGconcorrencia.test" />
       <recent name="maratonajava.javacore.ZZEstreams.test" />
       <recent name="maratonajava.javacore.ZZBcomportamento.test" />
       <recent name="maratonajava.javacore.Zgenerics.test" />
       <recent name="maratonajava.javacore.Zgenerics.service" />
-      <recent name="maratonajava.javacore.Ycolecoes.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StreamTest14">
-    <configuration name="ProdutoTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise.pacote03.ex01.test.ProdutoTest01" />
+  <component name="RunManager" selected="Application.ThreadTest01">
+    <configuration name="CallableTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.ZZGconcorrencia.test.CallableTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="maratonajava.javacore.ZZGconcorrencia.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExecutorsTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.ZZGconcorrencia.test.ExecutorsTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="maratonajava.javacore.ZZGconcorrencia.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FutureTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.ZZGconcorrencia.test.FutureTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="maratonajava.javacore.ZZGconcorrencia.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScheduledThreadPoolTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.ZZGconcorrencia.test.ScheduledThreadPoolTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="maratonajava.javacore.ZZGconcorrencia.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.pacote03.ex02.ThreadTest01" />
       <module name="exercicio-projetos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise.pacote03.ex01.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StreamTest11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.ZZEstreams.test.StreamTest11" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="maratonajava.javacore.ZZEstreams.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StreamTest12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.ZZEstreams.test.StreamTest12" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="maratonajava.javacore.ZZEstreams.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StreamTest13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.ZZEstreams.test.StreamTest13" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="maratonajava.javacore.ZZEstreams.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StreamTest14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maratonajava.javacore.ZZEstreams.test.StreamTest14" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="maratonajava.javacore.ZZEstreams.test.*" />
+          <option name="PATTERN" value="exercise.pacote03.ex02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,11 +276,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StreamTest14" />
-        <item itemvalue="Application.StreamTest13" />
-        <item itemvalue="Application.StreamTest12" />
-        <item itemvalue="Application.ProdutoTest01" />
-        <item itemvalue="Application.StreamTest11" />
+        <item itemvalue="Application.ThreadTest01" />
+        <item itemvalue="Application.FutureTest01" />
+        <item itemvalue="Application.CallableTest01" />
+        <item itemvalue="Application.ScheduledThreadPoolTest01" />
+        <item itemvalue="Application.ExecutorsTest01" />
       </list>
     </recent_temporary>
   </component>
